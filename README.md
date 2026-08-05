@@ -43,7 +43,7 @@ Northwest A&F University, College of Life Sciences
 
 ## Data Availability
 
-Raw 16S rRNA (V5–V7) and ITS1 amplicon sequencing data are deposited in NCBI SRA under BioProject PRJNAxxxxxx (to be updated upon acceptance). Processed ASV tables, metadata, and physicochemical data are available upon reasonable request.
+Raw 16S rRNA (V5–V7) and ITS1 amplicon sequencing data are deposited in NCBI SRA under BioProject PRJNA1499194. Processed ASV tables, metadata, and physicochemical data are available upon reasonable request.
 
 ## References
 
